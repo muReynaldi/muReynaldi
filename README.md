@@ -28,16 +28,12 @@
 
 ## 🛠 Technologies
 <p>
-  <img src="https://img.shields.io/badge/UIKit-239120?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-1572B6?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-1D72B8?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
