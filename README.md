@@ -3,8 +3,6 @@
 🚀 iOS Software Engineer | Crafting scalable and delightful mobile experiences  
 📍 Jakarta, Indonesia  
 
----
-
 ## 👨‍💻 About Me
 - 💼 iOS Software Engineer at **Tokopedia / Bytedance**  
 - 📱 Specialized in **Swift, UIKit, SwiftUI, Combine** and modern iOS architecture  
