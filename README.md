@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DynaPuff&pause=1000&width=435&lines=Hi!+I'm+Muhammad+Reynaldi" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DynaPuff&pause=1000&width=435&lines=Hi!+I'm+Muhammad+Reynaldi" alt="Typing SVG" /></a>
 
 🚀 iOS Software Engineer | Crafting scalable and delightful mobile experiences  
 📍 Jakarta, Indonesia  
@@ -10,8 +10,6 @@
 - 🧑‍🏫 Love mentoring developers & improving team workflows  
 - ✍️ I share thoughts and insights on [Medium](https://medium.com/@mreynaldi908)  
 
----
-
 ## 🔤 Languages
 <p>
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
@@ -21,8 +19,6 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
----
 
 ## 🛠 Technologies
 <p>
@@ -34,16 +30,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
 ## 🔗 Connect with Me
 <p>
   <a href="https://github.com/muReynaldi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://medium.com/@mreynaldi908"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mreynaldi908/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
 
 ## 📝 Latest Blog Post
 [**Mastering Swift Concurrency: From Basics to Async Functions**](https://medium.com/@mreynaldi908/mastering-swift-concurrency-from-basics-to-async-functions-726e504b91d6) — Dive into how Swift handles concurrency, why async / await matters, and tips for writing safer, cleaner asynchronous code.  
